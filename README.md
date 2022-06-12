@@ -1,5 +1,4 @@
-### ¡hola!*soy leandro lopez*...😄qwertyuiopasdfghjklñzxcvbnmqwertyuiopasdfghjklñzxcvbnmqwertyuiopasdfghjklñzxcvbnm
-
+### ¡hola!*soy leandro lopez*...😄
 ![github-plugins](https://user-images.githubusercontent.com/102327675/173241864-c2b2bdc6-d3a6-4bd6-a17f-60c6a10b5889.jpg)
 
 <!--
