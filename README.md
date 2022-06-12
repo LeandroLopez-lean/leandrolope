@@ -1,6 +1,5 @@
 ### ¡hola!*soy leandro lopez*...😄
-
-images.githubusercontent.com/102327675/173241651-4829ff61-fc6f-4bcb-9dbf-f049f82c3b21.jpg)
+![th](https://user-images.githubusercontent.com/102327675/173241700-1dcf2e22-1353-45de-8048-98c39e572aef.jpg)
 
 
 <!--
