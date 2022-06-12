@@ -1,4 +1,4 @@
-### ¡hola!*soy leandro lopez...😄
+### ¡hola!*soy leandro lopez*...😄
 
 <!--
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
