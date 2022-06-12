@@ -1,14 +1,6 @@
 ### ¡hola!*soy leandro lopez*...😄
 
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/102327675/173241577-a310a2e2-ee83-44e1-a5d5-522f15dd824a.png)
 
 <!--
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###{color: red;}
+
