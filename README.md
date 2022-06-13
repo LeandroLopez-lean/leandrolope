@@ -2,7 +2,8 @@
 ![WhatsApp Image 2022-06-13 at 4 42 48 PM](https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg)
 <br>
 [![th](https://user-images.githubusercontent.com/102327675/173439950-9877ad00-a5f8-4048-b573-148c0be991b6.jpeg)
-](https://www.facebook.com/leandro.lopez.a) [th (1)](https://user-images.githubusercontent.com/102327675/173440362-ba2ffb66-022f-48e9-ae49-79db53e4c41d.jpeg)
+](https://www.facebook.com/leandro.lopez.a) [![th (1)](https://user-images.githubusercontent.com/102327675/173441215-b0042487-05b8-4031-beb1-d23db571f8f7.jpeg)
+](https://user-images.githubusercontent.com/102327675/173440362-ba2ffb66-022f-48e9-ae49-79db53e4c41d.jpeg)
 
 <!--
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
