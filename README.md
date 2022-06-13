@@ -6,7 +6,7 @@
 ] 
 [github](https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif)
 
-<h1>[in]https://www.linkedin.com/badges/profile/create?vanityname=leo-lopez-117776241&preferredlocale=es_ES&trk=public_profile-settings_badge</h1>
+[in]https://www.linkedin.com/badges/profile/create?vanityname=leo-lopez-117776241&preferredlocale=es_ES&trk=public_profile-settings_badge
 
 <!--
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
