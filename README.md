@@ -3,7 +3,6 @@
 <br>
 [![th](https://user-images.githubusercontent.com/102327675/173439950-9877ad00-a5f8-4048-b573-148c0be991b6.jpeg)
 ](https://www.facebook.com/leandro.lopez.a) [th (1)](https://user-images.githubusercontent.com/102327675/173440362-ba2ffb66-022f-48e9-ae49-79db53e4c41d.jpeg)
-Programming Languages globe_with_meridians
 
 <!--
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
