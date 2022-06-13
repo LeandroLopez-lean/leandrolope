@@ -1,4 +1,4 @@
-## <h6 aling="center">¡hola! *soy leandro lopez*</h6>...😄
+## <h1 aling="center">¡hola! *soy leandro lopez*</h1>...😄
 ![github-plugins](https://user-images.githubusercontent.com/102327675/173241864-c2b2bdc6-d3a6-4bd6-a17f-60c6a10b5889.jpg)
 <br>
 [Facebook](https://www.facebook.com/leandro.lopez.a)
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+h1{font-size: 50px;}
