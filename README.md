@@ -1,8 +1,8 @@
 ## <h1 aling="center">¡hola! *soy leandro lopez*</h1>...😄
 ![WhatsApp Image 2022-06-13 at 4 42 48 PM](https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg)
 <br>
-ale=es_ES&trk=public_profile-settings_badge)
-
+[![th](https://user-images.githubusercontent.com/102327675/173449969-d36ce668-28fe-4ada-9ec6-cc6de6d22c91.jpeg)
+]
 <!--
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
