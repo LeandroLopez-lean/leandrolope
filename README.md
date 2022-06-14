@@ -1,4 +1,4 @@
-#¡hola! *soy leandro lopez*...😄
+# ¡hola! *soy leandro lopez*...😄
 <img src="https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg">
 <br>
 [![th](https://user-images.githubusercontent.com/102327675/173450202-f5763c09-e175-433e-a5d8-a8f50d04c2a2.jpeg)
@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-h1{
-h1 color: blue;
-}
+
 
 
