@@ -3,7 +3,7 @@
 <br> <h2>conocimientos</h2> <br>
 [th](https://user-images.githubusercontent.com/102327675/173450202-f5763c09-e175-433e-a5d8-a8f50d04c2a2.jpeg)
 
-[facebook](https://www.facebook.com/leandro.lopez.a)
+[<img src="/home/lopez/Desktop/memes/"height="10"width="10%"/>](https://www.facebook.com/leandro.lopez.a)
 <!--
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
