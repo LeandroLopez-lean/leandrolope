@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg" height= "200" width="100%"/>
 <br> <h2>conocimientos</h2> <br>
 
-<a href="https://www.w3schools.com">![th (1)](https://user-images.githubusercontent.com/102327675/173829328-9622f5ea-dc8a-47bb-ae7a-d1dfc6bf769c.jpeg)
+<a href="https://www.youtube.com/watch?v=rr2H086z16s&list=PLPl81lqbj-4LKo66cEts5yC_AjOvqKptm&ab_channel=Bluuweb">![th (1)](https://user-images.githubusercontent.com/102327675/173829328-9622f5ea-dc8a-47bb-ae7a-d1dfc6bf769c.jpeg)
 </a>
 
 [![fbchica](https://user-images.githubusercontent.com/102327675/173827370-a93d0d92-f55c-4868-87a0-a3f9a79bc22a.jpeg)
