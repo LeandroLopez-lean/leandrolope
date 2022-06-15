@@ -5,7 +5,7 @@
 <br>
 <a href="https://www.youtube.com/watch?v=rr2H086z16s&list=PLPl81lqbj-4LKo66cEts5yC_AjOvqKptm&ab_channel=Bluuweb">(https://user-images.githubusercontent.com/102327675/173830413-f8d5f74a-bb18-451a-993d-8a499649c650.jpeg)
 </a>
-<a href="platzi.com">(https://user-images.githubusercontent.com/102327675/173833782-6aa10c92-f349-4a6f-8934-2c6d20a2731c.jpeg)
+<a href="platzi.com">https://user-images.githubusercontent.com/102327675/173833782-6aa10c92-f349-4a6f-8934-2c6d20a2731c.jpeg
 </a>
 
 [![fbchica](https://user-images.githubusercontent.com/102327675/173827370-a93d0d92-f55c-4868-87a0-a3f9a79bc22a.jpeg)
