@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg" height= "200" width="100%"/>
 <br> <h2>conocimientos</h2> <br>
 
-[![th]"height= "200" width="100%"/> (https://user-images.githubusercontent.com/102327675/173820460-f727af64-0b98-48ac-82af-33415789d330.jpeg)
+[![th](https://user-images.githubusercontent.com/102327675/173820460-f727af64-0b98-48ac-82af-33415789d330.jpeg)
 ](https://www.facebook.com/leandro.lopez.a)
 <!--
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
