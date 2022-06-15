@@ -1,5 +1,5 @@
 
-        <h1  id="leo">¡HOLA! soy Leandreo Lopez...</h1>
+        <h1>¡HOLA! soy Leandreo Lopez...</h1>
    
         <a href="https://platzi.com/"><img src="th (3).jpeg"height="20px" width="5%";></a> </div>
     
