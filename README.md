@@ -10,7 +10,7 @@
 [![fbchica](https://user-images.githubusercontent.com/102327675/173827370-a93d0d92-f55c-4868-87a0-a3f9a79bc22a.jpeg)
 ](https://www.facebook.com/leandro.lopez.a)
 <br>
-<a height= "200" width="100%">
+<a>
 [![th (3).jpeg](https://user-images.githubusercontent.com/102327675/173840812-9010b204-2ef4-4bea-bf51-0d3aff1ea2d2.jpeg)
 ](https://platzi.com/)
   </a>
