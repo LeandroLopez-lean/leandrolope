@@ -11,7 +11,7 @@
 ](https://www.facebook.com/leandro.lopez.a)
 <br>
 <a>
-[height= "200" width="100%"![th (3).jpeg](https://user-images.githubusercontent.com/102327675/173840812-9010b204-2ef4-4bea-bf51-0d3aff1ea2d2.jpeg)
+[![<height= "200" width="100%">th (3).jpeg](https://user-images.githubusercontent.com/102327675/173840812-9010b204-2ef4-4bea-bf51-0d3aff1ea2d2.jpeg)
 ](https://platzi.com/)
   </a>
 <!--
