@@ -2,7 +2,8 @@
 <img src="https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg" height= "200" width="100%"/>
 <br> <h2>conocimientos</h2> <br>
 
-[![![<img src="fbchica"height="20"width="5%"/>](https://user-images.githubusercontent.com/102327675/173823586-212a02d1-dc60-43e9-8bd0-37b12a3c8e52.jpeg)
+[![![<img src="fb![Screenshot_20220615_092524](https://user-images.githubusercontent.com/102327675/173826366-a3f3dffc-e2b1-4a17-9fb7-23cd026d72b8.png)
+chica"height="20"width="5%"/>](https://user-images.githubusercontent.com/102327675/173823586-212a02d1-dc60-43e9-8bd0-37b12a3c8e52.jpeg)
 ](https://user-images.githubusercontent.com/102327675/173820460-f727af64-0b98-48ac-82af-33415789d330.jpeg)
 ](https://www.facebook.com/leandro.lopez.a)
 <!--
