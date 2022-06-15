@@ -1,6 +1,6 @@
 # ¡hola! *soy leandro lopez*...😄
 <img src="https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg" height= "200" width="100%"/>
-<br>
+<br>## conocimientos
 [th](https://user-images.githubusercontent.com/102327675/173450202-f5763c09-e175-433e-a5d8-a8f50d04c2a2.jpeg)
 ] 
 [facebook](https://www.facebook.com/leandro.lopez.a)
