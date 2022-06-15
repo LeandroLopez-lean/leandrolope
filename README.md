@@ -10,9 +10,9 @@
 [![fbchica](https://user-images.githubusercontent.com/102327675/173827370-a93d0d92-f55c-4868-87a0-a3f9a79bc22a.jpeg)
 ](https://www.facebook.com/leandro.lopez.a)ghfghf
 <br>
-<a href="https://platzi.com/"><img src="th (3).jpeg"height= "20" width="5"%></a>
+<a href="https://platzi.com/"><src="th (3).jpeg"height= "20" width="5"%></a>
 
-<!--
+<!-- 
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
 
 Here are some ideas to get you started:
