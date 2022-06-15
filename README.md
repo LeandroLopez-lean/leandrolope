@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg" height= "200" width="100%"/>
 <br> <h2>conocimientos</h2> <br>
 
-<a href="https://www.youtube.com/watch?v=rr2H086z16s&list=PLPl81lqbj-4LKo66cEts5yC_AjOvqKptm&ab_channel=Bluuweb">!(![th (2)](https://user-images.githubusercontent.com/102327675/173830413-f8d5f74a-bb18-451a-993d-8a499649c650.jpeg)
+<a href="https://www.youtube.com/watch?v=rr2H086z16s&list=PLPl81lqbj-4LKo66cEts5yC_AjOvqKptm&ab_channel=Bluuweb">![th (2)](https://user-images.githubusercontent.com/102327675/173830413-f8d5f74a-bb18-451a-993d-8a499649c650.jpeg)
 </a>
 
 [![fbchica](https://user-images.githubusercontent.com/102327675/173827370-a93d0d92-f55c-4868-87a0-a3f9a79bc22a.jpeg)
