@@ -19,13 +19,13 @@ Actualmente estoy aprendiendo sobre estructuras de datos y algoritmos: [FreeCode
  <img src="http://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F1502F"> <img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual%20studio%20code&logoColor=007ACC">
   
 ### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/carlos-gimenez-a267b4222/" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/leo-lopez-117776241//" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="leandrolopez131982@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-<a href="https://discord.com/users/poroto#6384"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
-<a href="https://www.facebook.com/carlos.gimenez.585"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
+<a href="https://discord.com/users/lopez#3982"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
+<a href="https://www.facebook.com/leandro.lopez.a"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
 **⭐️ From [gimenez1989](https://github.com/gimenez1989)**
 <!-- 
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
