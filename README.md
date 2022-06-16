@@ -3,18 +3,17 @@
  2  
 README.md
 @@ -1,14 +1,14 @@
-  # !Hola! Soy Carlos Gimenez 👋
+  # !Hola! Soy leandro lopez 👋
 <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nC1yoqNf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png" width="80%" title="Intro Card" alt="Intro Card">
+ <img src="https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg" height= "200" width="100%"/>
 </p>
 Actualmente estoy aprendiendo sobre estructuras de datos y algoritmos: [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
 ### Programming Languages 🌐
-  <img src = "https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26"> <img src = "https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6">
+ [] <img src = "https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26"> <img src = "https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=E9DD25">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=D8CC18">
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-
+  
 ### Tools 🛠️
  <img src="http://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F1502F"> <img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual%20studio%20code&logoColor=007ACC">
   
