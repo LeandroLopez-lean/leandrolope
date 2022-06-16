@@ -1,7 +1,4 @@
 
-     
- 2  
-README.md
 @@ -1,14 +1,14 @@
   # !Hola! Soy leandro lopez 👋
 <p align="center">
@@ -26,7 +23,7 @@ Actualmente estoy aprendiendo sobre estructuras de datos y algoritmos: [FreeCode
   </a>
 <a href="https://discord.com/users/lopez#3982"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/leandro.lopez.a"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
-**⭐️ From [gimenez1989](https://github.com/leandrolope)**
+**⭐️ From [leandrolope](https://github.com/leandrolope)**
 <!-- 
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
 
