@@ -11,7 +11,9 @@
   
   
 ### Tools 🛠️
- <img src="http://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F1502F"> <img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual%20studio%20code&logoColor=007ACC">
+<a href="https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5" > <img src="http://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F1502F"></A></A>
+<img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual%20studio%20code&logoColor=007ACC">
   
 ### Connect with me<img src="(https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)" height="32px">
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/leo-lopez-117776241//" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
