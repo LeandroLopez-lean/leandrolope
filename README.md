@@ -1,7 +1,7 @@
   # !Hola! Soy leandro lopez 👋
 <p align="center">
  <img src="https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg" height= "200" width="100%"/>
-</p>
+</p><br>
  [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
 ### Programming Languages 🌐
