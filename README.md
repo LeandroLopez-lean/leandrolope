@@ -2,7 +2,7 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg" height= "200" width="100%"/>
 </p><br>
- [file:///home/lopez/Desktop/memes/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d464646464646.svg](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
+ [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
 ### Programming Languages 🌐
  [] <img src = "https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26"> <img src = "https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6">
