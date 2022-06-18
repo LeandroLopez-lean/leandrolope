@@ -8,7 +8,7 @@
  [] <img src = "https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26"> <img src = "https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=E9DD25">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=D8CC18">
-  <summary><b> : calavera : objetivo para 2022</b></summary>
+  
   
 ### Tools 🛠️
  <img src="http://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F1502F"> <img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual%20studio%20code&logoColor=007ACC">
