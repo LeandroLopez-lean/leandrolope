@@ -21,14 +21,8 @@
   </a>
 <a href="https://discord.com/users/lopez#3982"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/leandro.lopez.a"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
-**⭐️ From [leandrolope](https://github.com/leandrolope)**
-import requests
+[leandrolope](https://github.com/leandrolope)
 
-url_imagen = "https://gophercises.com/img/gophercises_punching.gif" # El link de la imagen
-nombre_local_imagen = "go.gif" # El nombre con el que queremos guardarla
-imagen = requests.get(url_imagen).content
-with open(nombre_local_imagen, 'wb') as handler:
-	handler.write(imagen)
 <!-- 
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
 
