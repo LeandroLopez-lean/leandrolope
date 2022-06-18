@@ -22,42 +22,7 @@
 <a href="https://discord.com/users/lopez#3982"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/leandro.lopez.a"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
 [leandrolope](https://github.com/leandrolope)
-<style>
-  .balls {
-    border-radius: 50%;
-    position: fixed;
-    width: 50px;
-    height: 50px;
-    top: 60%;
-    animation-name: jump;
-    animation-duration: 2s;
-    animation-iteration-count: infinite;
-  }
-  #red {
-    background: red;
-    left: 25%;
-    animation-timing-function: linear;
-  }
-  #blue {
-    background: blue;
-    left: 50%;
-    animation-timing-function: ease-out;
-  }
-  #green {
-    background: green;
-    left: 75%;
-    animation-timing-function: cubic-bezier(0.69, 0.1, 1, 0.1);
-  }
 
-  @keyframes jump {
-    50% {
-      top: 10%;
-    }
-  }
-</style>
-<div class="balls" id="red"></div>
-<div class="balls" id="blue"></div>
-<div class="balls" id="green"></div>
 
 <!-- 
 **leandrolope/leandrolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
