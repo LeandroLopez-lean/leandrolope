@@ -1,4 +1,5 @@
   # !Hola! Soy leandro lopez 👋
+  <p>acá va a encontrar mis proyectos actuales y mí crecimiento en todo este tiempo!!! 👋</
 <p align="center">
  <img src="https://user-images.githubusercontent.com/102327675/173434402-667c09a5-ed4a-45e7-ae2f-968649029715.jpeg" height= "200" width="100%"/>
 </p><br>
